@@ -102,6 +102,7 @@ static void rtw_dev_remove(struct usb_interface *pusb_intf);
 	{USB_DEVICE(0x103C, 0x1629)},/* HP - Lite-On ,8188CUS Slim Combo */ \
 	{USB_DEVICE(0x2001, 0x3308)},/* D-Link - Alpha */ \
 	{USB_DEVICE(0x050D, 0x1102)},/* Belkin - Edimax */ \
+        {USB_DEVICE(0x050D, 0x21F2)}, \
 	{USB_DEVICE(0x2019, 0xAB2A)},/* Planex - Abocom */ \
 	{USB_DEVICE(0x20F4, 0x648B)},/* TRENDnet - Cameo */ \
 	{USB_DEVICE(0x4855, 0x0090)},/*  - Feixun */ \
